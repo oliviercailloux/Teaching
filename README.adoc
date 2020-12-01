@@ -1,0 +1,10 @@
+= Teaching
+
+== Take notes
+* 5 ways of taking notes https://www.youtube.com/watch?v=AffuwyJZTQQ[video]
+* https://doi.org/10.1177/0956797614524581[Research] shows that taking notes, and especially writing what is said in your own words after some mental processing, permits more effective study
+
+Links taken from the https://www.edx.org/search?level=Introductory&partner=Massachusetts%20Institute%20of%20Technology&q=The%20Secret%20of%20Life&subject=Biology%20%26%20Life%20Sciences&tab=course[course] “Introduction to Biology - The Secret of Life”, MITx
+//https://www.edx.org/bio/eric-s-lander
+
+
