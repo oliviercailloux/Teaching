@@ -1,0 +1,51 @@
+= Le plagiat
+
+Plagier, c’est reprendre un travail d’autrui en laissant penser que c’est le sien propre, c’est-à-dire, sans attribution correcte.
+
+== Exemples
+Vous êtes étudiant en M1, à ce titre, vous devez écrire un mémoire concernant votre travail. Votre travail concerne l’archivage de données. Dans l’introduction, vous écrivez : « L’archivage est un ensemble d’actions qui a pour but de garantir l’accessibilité sur le long terme d’informations (dossiers, documents, données) que l’on doit ou souhaite conserver pour des raisons juridiques, historiques ou culturelles. » Vous omettez d’indiquer clairement que vous avez trouvé cette phrase sur https://fr.wikipedia.org/w/index.php?title=Archivage&oldid=179111772[Wikipédia]. C’est du plagiat.
+
+Vous êtes jeune recruté et devez rédiger une documentation technique sur la lecture de fichiers CSV. Dans votre document, vous copiez des parties substantielles de code depuis la https://super-csv.github.io/super-csv/examples_reading.html[documentation de Super CSV], sans en indiquer clairement la source. C’est du plagiat.
+
+== Quel est le problème ?
+D’abord, le plagiat est une faute morale. Un auteur (ou une organisation) a le droit à la reconnaissance pour son travail, et vous le privez de ce droit en laissant croire que c’est votre propre travail. Dans l’autre sens, vous ne méritez une reconnaissance pour votre travail que dans la mesure où c’est bien le vôtre.
+
+Pour comprendre en quoi c’est une faute morale, imaginez qu’un collègue a rédigé un poème, l’a laissé trainer sur son bureau, et, pendant qu’il va aux toilettes, vous prenez son manuscrit, indiquez votre nom en-dessous, et allez parler de « votre » poème autour de vous en tentant d’en récolter les crédits à la place de l’auteur.
+
+Deuxièmement, le plagiat pose un problème pratique d’évaluation. Dans un cadre scolaire comme le nôtre, nous souhaitons pouvoir évaluer le travail d’un étudiant, et pour ce faire, devons pouvoir distinguer sa propre production de son effort de recherche et réutilisation, qui sont deux activités utiles mais distinctes.
+
+Pour ces deux raisons, le plagiat est sévèrement sanctionné dans les milieux scolaires.
+
+== Attribuer correctement
+La définition ci-dessus indique qu’il faut attribuer _correctement_ un travail d’autrui pour éviter de plagier. Citer seulement la source dans une rubrique « Références » en fin de votre document n’est _pas_ considéré comme une attribution correcte ! Votre audience doit pouvoir facilement distinguer précisément ce que vous avez réutilisé et ce qui est de vous. Il faut donc indiquer _clairement_ et _exactement à l’endroit où vous reprenez du travail d’autrui_ que c’est un emprunt, et d’où il vient. Lorsque vous copiez un texte écrit, par exemple, distinguez-le clairement du reste de votre texte (utilisez des guillemets ou l’italique), et indiquez sa source directement là où vous citez le propos. Votre indication peut bien sûr se limiter à une référence vers votre bibliographie, où vous aurez indiqué les détails nécessaires pour localiser la source exacte, mais en tous cas, l’audience doit pouvoir déterminer quelles parties de votre document ont été copiées d’une source, et quelles parties sont de votre cru.
+
+Dans l’exemple ci-dessous, on suppose qu’un document électronique est rédigé, destiné à être visualisé sur un écran. Dans ce cas, on peut inclure le lien directement dans la source, pour ne pas polluer le texte.
+
+.Exemple : citer des sources sur le web dans un document électronique
+====
+L’archivage est, comme l’indique https://fr.wikipedia.org/w/index.php?title=Archivage&oldid=179111772[Wikipédia], « un ensemble d’actions qui a pour but de garantir l’accessibilité sur le long terme d’informations (dossiers, documents, données) que l’on doit ou souhaite conserver pour des raisons juridiques, historiques ou culturelles ». On peut aussi définir des archives comme un « ensemble de documents hors d’usage courant, rassemblés, répertoriés et conservés pour servir à l’histoire d’une collectivité ou d’un individu. » (https://www.cnrtl.fr/definition/archives[Trésor de la Langue Française informatisé]).
+====
+
+Si le document est destiné à être lu sur papier, ou que les sources des citations ne se résument pas à une simple URL, il est généralement approprié de renvoyer vers la bibliographie, par exemple avec une référence entre crochets. (Placer les URLs dans le corps du texte nuit au confort de lecture.)
+
+.Exemple : citer des sources dans un document à imprimer
+====
+L’archivage est, comme l’indique Wikipédia [Archivage], « un ensemble d’actions qui a pour but de garantir l’accessibilité sur le long terme d’informations (dossiers, documents, données) que l’on doit ou souhaite conserver pour des raisons juridiques, historiques ou culturelles ». On peut aussi définir le verbe archiver comme « Recueillir, déposer, classer dans une collection d’archives » [Trésor de la Langue Française informatisé, Archives]. Tout processus d’archivage doit cependant se limiter, sous peine de tenter de recréer la bibliothèque de Babel, qui contient « Tout », comme l’écrivait Borges [1944] : « l’histoire minutieuse de l’avenir, les autobiographies des archanges, le catalogue fidèle de la Bibliothèque, des milliers et des milliers de catalogues mensongers, la démonstration de la fausseté de ces catalogues, la démonstration de la fausseté du catalogue véritable, l’évangile gnostique de Basilide, le commentaire de cet évangile, le commentaire du commentaire de cet évangile, le fait véridique de ta mort, la traduction de chaque livre en toutes les langues, les interpolations de chaque livre dans tous les livres. » Nos prétentions seront plus limitées.
+
+_Bibliographie_
+
+* Wikipédia, Archivage : https://fr.wikipedia.org/w/index.php?title=Archivage&oldid=179111772
+* Trésor de la Langue Française informatisé, Archives : https://www.cnrtl.fr/definition/archiver
+* Jorge Luis Borges, 1944 : _La Bibliothèque de Babel_, dans _Fictions_, Nouvelle édition augmentée (1983), éditions Gallimard, Trad. de l'espagnol (Argentine) par Ibarra (publié en langue originale en 1944 dans _Ficciones_, Emecé Editores)
+// https://es.wikipedia.org/wiki/Ficciones
+// http://www.gallimard.fr/Catalogue/GALLIMARD/Du-monde-entier/Fictions
+====
+
+== De la valeur de la réutilisation
+Ce document insiste sur l’interdiction de plagier, c’est-à-dire réutiliser le travail d’autrui sans attribution correcte. Il n’affirme _pas_ que c’est une mauvaise idée de citer le travail d’autrui dans vos documents !
+
+Mais dans beaucoup de cas, la réutilisation (avec attribution correcte) est bienvenue et intelligente. Dans les deux cas cités en exemples ci-dessus, celui du mémoire de M1 d’un étudiant et celui d’un document explicatif rédigé par un employé, il est beaucoup plus pertinent de citer et commenter des documents pré-existants bien faits plutôt que tenter de réinventer la roue. Le travail de recherche et de réunion dans un seul document d’informations éparses est également un travail en soi, qui sera valorisé s’il est bien fait. S’appuyer sur les autres n’a rien d’honteux, au contraire, c’est en repartant de travaux bien faits, en s’appuyant sur l’épaule des géants, qu’on peut produire des connaissances toujours plus pointues. Soyez donc fiers de citer les sources pertinentes dans vos travaux.
+
+Cela n’entraine pas que toute citation est bonne à prendre. Dans un milieu scolaire, votre enseignant vous demande peut-être explicitement de ne pas réutiliser mais de réinventer « à partir de zéro », ce qui peut être bon pour l’apprentissage. Renseignez-vous auprès de l’enseignant pour connaitre les consignes précises, si vous hésitez. Même quand elles sont autorisées, évitez par exemple de reprendre un texte sans aucun esprit critique, et préférez reformuler pour écrire selon votre propre style plutôt que constituer un document avec des morceaux de phrases récupérées depuis des sources diverses, ce qui produirait un document peu agréable à lire.
+
+
