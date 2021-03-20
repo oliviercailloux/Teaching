@@ -21,14 +21,14 @@ La définition ci-dessus indique qu’il faut attribuer _correctement_ un travai
 
 Dans l’exemple ci-dessous, on suppose qu’un document électronique est rédigé, destiné à être visualisé sur un écran. Dans ce cas, on peut inclure le lien directement dans la source, pour ne pas polluer le texte.
 
-.Exemple : citer des sources sur le web dans un document électronique
+.Citer des sources sur le web dans un document électronique
 ====
 L’archivage est, comme l’indique https://fr.wikipedia.org/w/index.php?title=Archivage&oldid=179111772[Wikipédia], « un ensemble d’actions qui a pour but de garantir l’accessibilité sur le long terme d’informations (dossiers, documents, données) que l’on doit ou souhaite conserver pour des raisons juridiques, historiques ou culturelles ». On peut aussi définir des archives comme un « ensemble de documents hors d’usage courant, rassemblés, répertoriés et conservés pour servir à l’histoire d’une collectivité ou d’un individu. » (https://www.cnrtl.fr/definition/archives[Trésor de la Langue Française informatisé]).
 ====
 
 Si le document est destiné à être lu sur papier, ou que les sources des citations ne se résument pas à une simple URL, il est généralement approprié de renvoyer vers la bibliographie, par exemple avec une référence entre crochets. (Placer les URLs dans le corps du texte nuit au confort de lecture.)
 
-.Exemple : citer des sources dans un document à imprimer
+.Citer des sources dans un document à imprimer
 ====
 L’archivage est, comme l’indique Wikipédia [Archivage], « un ensemble d’actions qui a pour but de garantir l’accessibilité sur le long terme d’informations (dossiers, documents, données) que l’on doit ou souhaite conserver pour des raisons juridiques, historiques ou culturelles ». On peut aussi définir le verbe archiver comme « Recueillir, déposer, classer dans une collection d’archives » [Trésor de la Langue Française informatisé, Archives]. Tout processus d’archivage doit cependant se limiter, sous peine de tenter de recréer la bibliothèque de Babel, qui contient « Tout », comme l’écrivait Borges [1944] : « l’histoire minutieuse de l’avenir, les autobiographies des archanges, le catalogue fidèle de la Bibliothèque, des milliers et des milliers de catalogues mensongers, la démonstration de la fausseté de ces catalogues, la démonstration de la fausseté du catalogue véritable, l’évangile gnostique de Basilide, le commentaire de cet évangile, le commentaire du commentaire de cet évangile, le fait véridique de ta mort, la traduction de chaque livre en toutes les langues, les interpolations de chaque livre dans tous les livres. » Nos prétentions seront plus limitées.
 
