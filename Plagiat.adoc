@@ -10,7 +10,7 @@ Vous êtes jeune recruté et devez rédiger une documentation technique sur la l
 == Quel est le problème ?
 D’abord, le plagiat est une faute morale. Un auteur (ou une organisation) a le droit à la reconnaissance pour son travail, et vous le privez de ce droit en laissant croire que c’est votre propre travail. Dans l’autre sens, vous ne méritez une reconnaissance pour votre travail que dans la mesure où c’est bien le vôtre.
 
-Pour comprendre en quoi c’est une faute morale, imaginez qu’un collègue a rédigé un poème, l’a laissé trainer sur son bureau, et, pendant qu’il va aux toilettes, vous prenez son manuscrit, indiquez votre nom en-dessous, et allez parler de « votre » poème autour de vous en tentant d’en récolter les crédits à la place de l’auteur.
+Pour comprendre en quoi c’est une faute morale, imaginez qu’un collègue a rédigé un poème, l’a laissé trainer sur son bureau, et, pendant qu’il va aux toilettes, vous prenez son manuscrit, indiquez votre nom en-dessous, et allez montrer « votre » poème autour de vous en tentant d’en récolter les crédits à la place de l’auteur.
 
 Deuxièmement, le plagiat pose un problème pratique d’évaluation. Dans un cadre scolaire comme le nôtre, nous souhaitons pouvoir évaluer le travail d’un étudiant, et pour ce faire, devons pouvoir distinguer sa propre production de son effort de recherche et réutilisation, qui sont deux activités utiles mais distinctes.
 
