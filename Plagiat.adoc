@@ -51,7 +51,7 @@ Dans de nombreux de cas, la réutilisation (avec attribution correcte) est bienv
 Cela n’entraine pas que toute citation est bonne à prendre. Dans un milieu scolaire, votre enseignant vous demande peut-être explicitement de ne pas réutiliser mais de réinventer « à partir de zéro », ce qui peut être bon pour l’apprentissage. Renseignez-vous auprès de l’enseignant pour connaitre les consignes précises, si vous hésitez. Même quand elles sont autorisées, évitez par exemple de reprendre un texte sans aucun esprit critique, et préférez reformuler pour écrire selon votre propre style plutôt que constituer un document avec des morceaux de phrases récupérées depuis des sources diverses, ce qui produirait un document peu agréable à lire.
 
 == Un peu d’humour belge
-https://mycore.core-cloud.net/index.php/s/jDdn1OcEfjjj8NU[Édouard Moronobu, écrivain wallon], par Philippe Geluck. https://fr.wikipedia.org/wiki/Le_Jeu_des_dictionnaires[Le Jeu des Dictionnaires], diffusé avec la permission de geluck.com, usage restreint à l’apprentissage dans le cadre de la formation en informatique de Paris-Dauphine.
+https://github.com/oliviercailloux/Teaching/blob/main/Philippe%20Geluck%20-%20Dictionnaires%20-%20Moronobu,%20%C3%A9crivain%20wallon.mp3?raw=true[Édouard Moronobu, écrivain wallon], par Philippe Geluck. https://fr.wikipedia.org/wiki/Le_Jeu_des_dictionnaires[Le Jeu des Dictionnaires], diffusé avec la permission de geluck.com, usage restreint à l’apprentissage dans le cadre de la formation en informatique de Paris-Dauphine.
 
 Exercice : Philippe Geluck utilise le terme « falsification littéraire » et non « plagiat ». Son histoire fictive illustre-t-elle le plagiat au sens défini ici ? Pourquoi (pas) ?
 
