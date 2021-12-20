@@ -19,6 +19,8 @@ Pour ces deux raisons, le plagiat est sévèrement sanctionné dans les milieux 
 == Attribuer correctement
 La définition ci-dessus indique qu’il faut attribuer _correctement_ un travail d’autrui pour éviter de plagier. Citer seulement la source dans une rubrique « Références » en fin de votre document n’est _pas_ considéré comme une attribution correcte ! Votre audience doit pouvoir facilement distinguer précisément ce qui vient de chaque source et ce qui est de vous. Il faut donc indiquer _clairement_ et _exactement à l’endroit où vous reprenez du travail d’autrui_ que c’est un emprunt, et d’où il vient. Lorsque vous copiez un texte écrit, par exemple, distinguez-le clairement du reste de votre texte (utilisez des guillemets ou l’italique), et indiquez sa source directement là où vous citez le propos. Votre indication peut bien sûr se limiter à une référence vers votre bibliographie, où vous aurez indiqué les détails nécessaires pour localiser la source exacte, mais en tous cas, l’audience doit pouvoir déterminer quelles parties de votre document ont été copiées d’une source donnée, et quelles parties sont de votre cru.
 
+Notez qu’il faut également attribuer correctement la source des figures (selon les mêmes règles), si elles ne sont pas toutes votre propre création.
+
 === En général
 Inclure des références complètes vers une source directement dans le corps du texte nuit au confort de lecture. Mieux vaut marquer votre emprunt d’un indicateur entre crochets, qui renvoie vers votre bibliographie, où vous pouvez indiquer les références ou les URLs pertinentes. Voici un exemple.
 
